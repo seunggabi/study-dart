@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+### docs
+- https://dart.dev/
+- https://dart.dev/samples
+
+### install
+```shell
+brew tap dart-lang/dart
+brew install dart
+brew upgrade dart
+```
